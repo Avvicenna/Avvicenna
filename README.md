@@ -7,7 +7,7 @@
 
 ### `clinical-steward@sentra:~$ whoami`
 
-# dr. Avvcenna+
+# dr. Avvcena+
 
 **Augmented Intelligence Architect · Strategic Futurist**
 

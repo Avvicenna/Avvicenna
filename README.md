@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="240" height="280" align="center" valign="middle">
-<img src="https://postimg.cc/MXhYzzQv" alt="dr. Avvcenna+" width="220" height="220" style="border-radius: 16px; object-fit: cover;" />
+<img src="i.https://postimg.cc/MXhYzzQv" alt="dr. Avvcenna+" width="220" height="220" style="border-radius: 16px; object-fit: cover;" />
 </td>
 <td valign="middle">
 

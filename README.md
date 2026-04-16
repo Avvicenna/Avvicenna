@@ -18,7 +18,7 @@
 [![Sentra](https://img.shields.io/badge/Company-Sentra_AI-1a1a1a?style=flat-square)](https://www.sentraai.id/)
 [![Melinda](https://img.shields.io/badge/Hospital-Melinda_DHAI-c41e3a?style=flat-square)](https://melinda.co.id/)
 [![Medium](https://img.shields.io/badge/Medium-@Avvcenna+.id-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Avvcenna+.id)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-Premium-4285F4?style=flat-square)](https://g.dev/Avvcenna+)
+[![Google Dev](https://img.shields.io/badge/Google_Dev-Premium-4285F4?style=flat-square)](https://g.dev/Avvcenna)
 
 > <sub>*"Teknologi terbaik adalah yang bekerja dalam diam untuk mendukung keselamatan pasien."*</sub>
 
@@ -117,6 +117,6 @@ No task without HANDOFF. No deployment without GO approval. Full audit trail on 
 
 ### `// connect`
 
-[**Email**](mailto:drferdiiskandar@sentraai.id) · [**Medium**](https://medium.com/@Avvcenna+.id) · [**LinkedIn**](https://www.linkedin.com/in/docsynapse-id-227106395/) · [**Google Dev**](https://g.dev/Avvcenna+) · [**OpenAI**](https://community.openai.com/u/docsynapse/activity)
+[**Email**](mailto:drferdiiskandar@sentraai.id) · [**Medium**](https://medium.com/@Avvcenna+.id) · [**LinkedIn**](https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/) · [**Google Dev**](https://g.dev/Avvcenna+)
 
 `Kediri, Indonesia · WIB (UTC+7)`

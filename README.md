@@ -1,13 +1,13 @@
 <table>
 <tr>
 <td width="240" height="280" align="center" valign="middle">
-<img src="https://i.postimg.cc/RV0pQFCQ/Avvecenna4.png" alt="dr. Avvcenna+" width="220" height="220" style="border-radius: 16px; object-fit: cover;" />
+<img src="https://i.postimg.cc/RV0pQFCQ/Avvecenna4.png" alt="dr. Classy+" width="220" height="220" style="border-radius: 16px; object-fit: cover;" />
 </td>
 <td valign="middle">
 
 ### `clinical-steward@sentra:~$ whoami`
 
-# dr. Avvcenna+
+# dr. Classy+
 
 **Augmented Intelligence Architect · Strategic Futurist**
 
@@ -17,8 +17,8 @@
 [![Website](https://img.shields.io/badge/Website-ferdiiskandar.com-000000?style=flat-square)](https://ferdiiskandar.com)
 [![Sentra](https://img.shields.io/badge/Company-Sentra_AI-1a1a1a?style=flat-square)](https://www.sentraai.id/)
 [![Melinda](https://img.shields.io/badge/Hospital-Melinda_DHAI-c41e3a?style=flat-square)](https://melinda.co.id/)
-[![Medium](https://img.shields.io/badge/Medium-@Avvcenna+.id-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Avvcenna+.id)
-[![Google Dev](https://img.shields.io/badge/Google_Dev-Premium-4285F4?style=flat-square)](https://g.dev/Avvcenna)
+[![Medium](https://img.shields.io/badge/Medium-@Classy+.id-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Classy+.id)
+[![Google Dev](https://img.shields.io/badge/Google_Dev-Premium-4285F4?style=flat-square)](https://g.dev/Classy)
 
 > <sub>*"Teknologi terbaik adalah yang bekerja dalam diam untuk mendukung keselamatan pasien."*</sub>
 
@@ -85,7 +85,7 @@ AI assists.  Humans decide.  Physicians remain accountable.
 **[The Abyss](https://github.com/Docsynapse/abyss-monorepo)** — production monorepo governing every Sentra application under a single contract.
 
 ```text
-┌─ Avvcenna+ Genesis Framework v2.4 ──────────────────────────┐
+┌─ Classy+ Genesis Framework v2.4 ──────────────────────────┐
 │                                                            │
 │   GATE 1   SCOPE         →   Clinical safety alignment     │
 │   GATE 2   INTEGRITY     →   Task granularity validation   │
@@ -117,6 +117,6 @@ No task without HANDOFF. No deployment without GO approval. Full audit trail on 
 
 ### `// connect`
 
-[**Email**](mailto:drferdiiskandar@sentraai.id) · [**Medium**](https://medium.com/@Avvcenna+.id) · [**LinkedIn**](https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/) · [**Google Dev**](https://g.dev/Avvcenna+)
+[**Email**](mailto:drferdiiskandar@sentraai.id) · [**Medium**](https://medium.com/@Classy+.id) · [**LinkedIn**](https://www.linkedin.com/in/dr-ferdi-iskandar-1b620a3b5/) · [**Google Dev**](https://g.dev/Classy+)
 
 `Kediri, Indonesia · WIB (UTC+7)`
